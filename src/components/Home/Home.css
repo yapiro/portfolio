@@ -1,0 +1,64 @@
+.Home-container{
+   text-align: center;
+}
+
+.header{
+ margin:20px;  
+}
+
+.wisky{
+   background-color: rgb(10, 10, 10);
+   padding:30px;
+   color:white;
+}
+
+.wisky h2{
+   padding-bottom:30px;
+}
+
+.wisky p{
+   padding:30px;
+}
+
+
+.wisky-image{
+   width:100%;
+   height:300px;
+   object-fit: cover;
+}
+
+.journey{
+   background-color:rgb(206, 233, 249);
+   padding:30px;
+   color:rgb(20, 73, 116);
+}
+
+.journey h2{
+   padding-bottom:30px;
+}
+
+.journey p{
+   padding:30px;
+}
+.journey-image{
+   width:100%;
+   height:300px;
+   object-fit: cover;
+}
+
+.muscle{
+   background-color:rgb(215, 216, 216);
+   padding:30px;
+}
+
+.muscle h2{
+   padding-bottom:30px;
+}
+.muscle p{
+   padding:30px;
+}
+.muscle-image{
+   width:100%;
+   height:300px;
+   object-fit: cover;
+}

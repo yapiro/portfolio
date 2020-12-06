@@ -1,0 +1,29 @@
+.TweetList-item{
+    border:1px solid #000;
+    list-style:none;
+    margin-top:20px;
+}
+
+.TweetList-item-completed{
+    text-decoration:line-through;
+}
+
+.TweetList-item:hover{
+    background:#adc6ff;
+}
+
+.text{
+    padding-top:20px;
+}
+
+.gabbage{
+    padding:10px 0 20px 0;
+}
+
+ul{
+    margin-bottom:20px;
+}
+.list{
+    width:82%;
+    padding-left:33px;
+}

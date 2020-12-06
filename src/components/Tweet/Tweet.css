@@ -1,0 +1,75 @@
+.center{
+    text-align: center;
+}
+
+.button-textarea{
+    margin-bottom:10px;
+}
+
+div{
+    background-color: rgb(250, 250, 250);
+}
+
+.tweet-container{
+    display:flex;
+}
+
+.left-container{
+    width:45%;
+    text-align: center;
+    background-color: rgb(4, 2, 26);
+}
+
+.left-container h3{
+    color:rgb(226, 223, 223);
+}
+
+
+.left-container img{
+    max-width: 300px;
+    margin-top:20px;
+}
+
+
+.right-container{
+    width:45%;
+    text-align: center;
+}
+.osake{
+    background-color: black;
+    color:white;
+    padding:10px;
+}
+
+
+
+.trip{
+    background-color:rgb(206, 233, 249);
+    padding:10px;
+}
+
+.trip h5{
+    color:black;
+}
+
+.meat{
+    background-color:rgb(215, 216, 216);
+    padding:10px;
+}
+
+.meat h5{
+    color:black;
+}
+
+.form-input{
+    width:80%;
+}
+
+h1{
+    padding:10px 0 30px 0;
+}
+
+
+
+
+
