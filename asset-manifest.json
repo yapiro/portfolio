@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7b2045b7.chunk.css",
+    "main.js": "/portfolio/static/js/main.b0897dd0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b0897dd0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.4bea9a9d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.4bea9a9d.js.map",
+    "static/js/2.efa4c5f9.chunk.js": "/portfolio/static/js/2.efa4c5f9.chunk.js",
+    "static/js/2.efa4c5f9.chunk.js.map": "/portfolio/static/js/2.efa4c5f9.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.7b2045b7.chunk.css.map": "/portfolio/static/css/main.7b2045b7.chunk.css.map",
+    "static/js/2.efa4c5f9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.efa4c5f9.chunk.js.LICENSE.txt",
+    "static/media/journey.fdcc896f.jpg": "/portfolio/static/media/journey.fdcc896f.jpg",
+    "static/media/journeyimg.05d02c93.jpg": "/portfolio/static/media/journeyimg.05d02c93.jpg",
+    "static/media/meatimg.1e0c42fd.jpg": "/portfolio/static/media/meatimg.1e0c42fd.jpg",
+    "static/media/muscle.1409a981.jpg": "/portfolio/static/media/muscle.1409a981.jpg",
+    "static/media/wisky.c9389635.jpg": "/portfolio/static/media/wisky.c9389635.jpg",
+    "static/media/wisky2.a6ae9e32.jpg": "/portfolio/static/media/wisky2.a6ae9e32.jpg",
+    "static/media/wiskyimg.7fc4e9af.jpg": "/portfolio/static/media/wiskyimg.7fc4e9af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bea9a9d.js",
+    "static/js/2.efa4c5f9.chunk.js",
+    "static/css/main.7b2045b7.chunk.css",
+    "static/js/main.b0897dd0.chunk.js"
+  ]
+}
