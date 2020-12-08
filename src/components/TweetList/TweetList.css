@@ -25,5 +25,8 @@ ul{
 }
 .list{
     width:82%;
-    padding-left:33px;
+}
+
+@media screen and (min-width:375px){
+    
 }

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { resizeImage } from './resizeImage';
+import './resize.css';
 
 class Resize extends Component {
   state = {
@@ -20,10 +21,12 @@ class Resize extends Component {
     return (
       <div>
         <div>
-          <input
-            type="file"
-            onChange={e => this.imageChangeHandler(e)}
-          />
+          <label>
+            <input　className = "input"
+              type="file"
+              onChange={e => this.imageChangeHandler(e)}
+            />ファイルを選択する
+          </label>  
         </div>
         {
           imageUri &&

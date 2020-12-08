@@ -15,14 +15,20 @@ div{
 }
 
 .left-container{
-    width:45%;
+    width:50%;
     text-align: center;
     background-color: rgb(4, 2, 26);
 }
 
 .left-container h3{
     color:rgb(226, 223, 223);
+    margin-top:15px;
 }
+
+.left-container p{
+    margin-bottom:15px;
+}
+
 
 
 .left-container img{
@@ -32,7 +38,7 @@ div{
 
 
 .right-container{
-    width:45%;
+    width:50%;
     text-align: center;
 }
 .osake{
@@ -63,13 +69,62 @@ div{
 
 .form-input{
     width:80%;
+    padding:10px 0;
+}
+
+.button-input{
+    padding:7px 0;
 }
 
 h1{
     padding:10px 0 30px 0;
 }
 
+.bottom{
+    padding: 20px 0 80px 0;
+    font-size: 20px;
+}
 
 
+@media screen and (min-width:1040px){
+
+}
+
+
+@media screen and (max-width:820px)and (min-width:560px){
+    .tweet-container{
+        display:flex;
+        flex-direction: column;
+    }
+    .tweet-container img{
+        max-width:500px;
+    }
+    .right-container{
+        width: 100%;
+        margin-top:20px;
+    }
+    
+    .left-container{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:560px){
+    .tweet-container{
+        display:flex;
+        flex-direction: column;
+    }
+    .tweet-container img{
+        max-width:350px;
+    }
+    .right-container{
+        width: 100%;
+        padding:20px 0;
+    }
+    .left-container{
+        width:100%;
+    }
+    
+}
 
 

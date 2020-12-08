@@ -28,7 +28,7 @@ const Tweet =(props)=>{
             </div>
             <div className = "tweet-container">
                 <div className = "left-container">
-                    <h3>最高の呟き時間</h3>
+                    <h3>過去の体験</h3>
                     <div className = "osake">
                         <img src = {Icon} alt = ""></img>
                         <h5>chivas-regal</h5>
@@ -51,12 +51,14 @@ const Tweet =(props)=>{
                     </div>         
                 </div>    
                 <div className = "right-container">
+                    <h1>新体験を共有しよう！</h1>
                     <input className = "form-input" value = {text} type = "text"　placeholder = "(例)ウイスキー：白州飲んだ〜！美味しかった！" onChange={onChangeHandler}></input>
-                    <button className = "button-textarea" onClick ={onClickButton}>投稿する</button>
+                    <button className = "button-input" onClick ={onClickButton}>投稿する</button>
                     <TweetList/>
                 </div>
             </div>    
-            <div className = "center">
+            <div className = "center bottom">
+                
                 <hr/><Link to = '/'>記事一覧に戻る</Link>
             </div>
         </div>    
