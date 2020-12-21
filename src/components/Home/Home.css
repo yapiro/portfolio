@@ -2,8 +2,47 @@
    text-align: center;
 }
 
+.all-cardtype{
+   margin-top:20px;
+}
+
+.cardtype{
+   margin:20px 10px;
+}
+
+.cardtype-text{
+   border:1px solid black;
+   padding:10px;
+   margin-top:-6px;
+   box-shadow:1px 1px 10px rgba(68, 68, 68, 0.4);
+}
+
+.top-cardtype{
+   width:100%;
+   display:flex;
+   justify-content: center;
+}
+.bottom-cardtype{
+   width:100%;
+   display:flex;
+   justify-content: center;
+}
+
+
+.blog{
+   width: 450px;
+}
+
+.cardtype-text{
+   color:rgba(34, 34, 34, 0.6);
+}
+
+a{
+   text-decoration: none;
+}
+
 .header{
- margin:20px;  
+   margin:20px;  
 }
 
 .wisky{
