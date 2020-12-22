@@ -134,6 +134,8 @@ h1{
     .form-input{
         font-size: 16px;
         transform: scale(0.8);
+        padding:10px 30px;
+        text-align: center;
     }
 }
 
