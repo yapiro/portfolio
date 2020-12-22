@@ -15,7 +15,7 @@ const Home = ({history})=>{
         <div className = 'Home-container'>
             <div className = 'header-lists'>
                 <h1>男のロマン</h1>
-                <h3>お酒・旅・筋肉。<br/>３拍子揃った男に嫌な奴はいない。<br/>そんな男になるために私がしていることを更新中</h3>
+                <h3>お酒・旅・筋肉。<br/>３拍子揃った男は人生を楽しめる。<br/>そんな男になるために私がしていることを更新中</h3>
             </div>
             <div className = "all-cardtype">
                 <div className = "top-cardtype">

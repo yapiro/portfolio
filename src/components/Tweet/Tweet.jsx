@@ -32,12 +32,12 @@ const Tweet =(props)=>{
                     <div className = "osake">
                         <img src = {Icon} alt = ""></img>
                         <h5>chivas-regal</h5>
-                        <p>芳醇でスモーキーな味わいがクセになる一品です。<br/>¥2500</p>
+                        <p>甘味があり女性でも楽しめる逸品です。<br/>¥2500</p>
                     </div>
                     <div className = "osake">
                         <img src = {Icon1} alt = ""></img>
                         <h5>macallan</h5>
-                        <p>芳醇でスモーキーな味わいがクセになる一品です。<br/>¥2500</p>
+                        <p>開けた瞬間から甘味が鼻に抜けてきます。<br/>¥7000</p>
                     </div>
                     <div className = "trip">
                         <img src = {Icon2} alt = ""></img>
