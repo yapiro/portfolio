@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.86823b61.chunk.css",
-    "main.js": "/portfolio/static/js/main.6b19ba0f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6b19ba0f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.7206ed88.chunk.css",
+    "main.js": "/portfolio/static/js/main.6ddeb3dc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6ddeb3dc.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.4bea9a9d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.4bea9a9d.js.map",
-    "static/js/2.45d1865c.chunk.js": "/portfolio/static/js/2.45d1865c.chunk.js",
-    "static/js/2.45d1865c.chunk.js.map": "/portfolio/static/js/2.45d1865c.chunk.js.map",
+    "static/js/2.0ac12410.chunk.js": "/portfolio/static/js/2.0ac12410.chunk.js",
+    "static/js/2.0ac12410.chunk.js.map": "/portfolio/static/js/2.0ac12410.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.86823b61.chunk.css.map": "/portfolio/static/css/main.86823b61.chunk.css.map",
-    "static/js/2.45d1865c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.45d1865c.chunk.js.LICENSE.txt",
+    "static/css/main.7206ed88.chunk.css.map": "/portfolio/static/css/main.7206ed88.chunk.css.map",
+    "static/js/2.0ac12410.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0ac12410.chunk.js.LICENSE.txt",
+    "static/media/journey-blog1.eab3a510.jpg": "/portfolio/static/media/journey-blog1.eab3a510.jpg",
     "static/media/journey.fdcc896f.jpg": "/portfolio/static/media/journey.fdcc896f.jpg",
     "static/media/journeyimg.05d02c93.jpg": "/portfolio/static/media/journeyimg.05d02c93.jpg",
+    "static/media/jpnwisky-blog1.043141b9.jpg": "/portfolio/static/media/jpnwisky-blog1.043141b9.jpg",
     "static/media/meatimg.1e0c42fd.jpg": "/portfolio/static/media/meatimg.1e0c42fd.jpg",
+    "static/media/muscle-blog1.7016c00c.jpg": "/portfolio/static/media/muscle-blog1.7016c00c.jpg",
     "static/media/muscle.1409a981.jpg": "/portfolio/static/media/muscle.1409a981.jpg",
     "static/media/wisky.c9389635.jpg": "/portfolio/static/media/wisky.c9389635.jpg",
     "static/media/wisky2.a6ae9e32.jpg": "/portfolio/static/media/wisky2.a6ae9e32.jpg",
+    "static/media/wiskyblog.ca729c15.jpg": "/portfolio/static/media/wiskyblog.ca729c15.jpg",
     "static/media/wiskyimg.7fc4e9af.jpg": "/portfolio/static/media/wiskyimg.7fc4e9af.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4bea9a9d.js",
-    "static/js/2.45d1865c.chunk.js",
-    "static/css/main.86823b61.chunk.css",
-    "static/js/main.6b19ba0f.chunk.js"
+    "static/js/2.0ac12410.chunk.js",
+    "static/css/main.7206ed88.chunk.css",
+    "static/js/main.6ddeb3dc.chunk.js"
   ]
 }
