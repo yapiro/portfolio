@@ -20,17 +20,17 @@ const Home = ({history})=>{
             <div className = "all-cardtype">
                 <div className = "top-cardtype">
                     <article className = 'cardtype'>
-                        <Link to = "/wisky-blog1221" className = 'cardtype-link'>
+                        <Link to = "/wisky1221" className = 'cardtype-link'>
                             <div className = 'cardtype-img'>
                                 <img className = 'blog' src = {Icon4} alt = ''></img>
                             </div>  
                             <div className = 'cardtype-text'>
-                                <h4>安くてお手軽？！2020年に飲むべきウイスキー３選</h4>
+                                <h4>安くてお手軽？！おすすめウイスキー３選</h4>
                             </div> 
                         </Link>
                     </article>
                     <article className = 'cardtype'>
-                        <Link to ="/muscle-blog1221" className = 'cardtype-link'>
+                        <Link to ="/muscle1221" className = 'cardtype-link'>
                             <div className = 'cardtype-img'>
                                 <img className = 'blog' src = {Icon5} alt = ''></img>
                             </div>  
@@ -42,7 +42,7 @@ const Home = ({history})=>{
                 </div>
                 <div className = "bottom-cardtype">
                     <article className = 'cardtype'>
-                        <Link to = "/journey-blog" className = 'cardtype-link'>
+                        <Link to = "/journey" className = 'cardtype-link'>
                             <div className = 'cardtype-img'>
                                 <img className = 'blog' src = {Icon6} alt = ''></img>
                             </div>  
@@ -52,7 +52,7 @@ const Home = ({history})=>{
                         </Link>
                     </article>
                     <article className = 'cardtype'>
-                        <Link to = "/wisky-blog1221part2" className = 'cardtype-link'>
+                        <Link to = "/wisky1221part2" className = 'cardtype-link'>
                             <div className = 'cardtype-img'>
                                 <img className = 'blog' src = {Icon7} alt = ''></img>
                             </div>  

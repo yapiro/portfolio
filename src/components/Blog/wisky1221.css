@@ -1,0 +1,13 @@
+.tableContents{
+    border:1px solid black;
+    width:50%;
+    margin:0 auto;
+}
+
+.tableContents p{
+    text-align: center;
+}
+
+h1,h2{
+    text-align: center;
+}
